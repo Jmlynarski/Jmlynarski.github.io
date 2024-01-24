@@ -1,8 +1,6 @@
-
-h1 { 
-        color: blueviolet;
-        font-size: 20px;
+body {
+    background: violet;
 }
 p {
-    color: red;
+    color: aqua;
 }
